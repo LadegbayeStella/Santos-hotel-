@@ -1,0 +1,15 @@
+.myImg div{
+  display: inline-flex;
+}
+.myImg div img{
+  width: 90%;
+  border-radius: 10px;
+}
+.myImg div a:hover{
+  width: 100%;
+}
+body{
+  background-image: url(../img/c02e04e9_z.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
